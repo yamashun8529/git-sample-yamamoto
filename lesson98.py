@@ -3,7 +3,7 @@ import pathlib
 import glob
 import shutil
 
-print(os.path.exists('test.txt'))
+print(os.path.exists('takahara_write.txt'))
 print(os.path.isfile('test.txt'))
 print(os.path.isdir('Practice Python'))
 
